@@ -1,0 +1,11 @@
+{
+    "name": "simple-node-app",
+    "version": "1.0.0",
+    "description": "A simple Node.js application for demonstration purposes.",
+    "main": "src/app.js",
+    "scripts": {
+        "start": "node src/app.js",
+        "test": "bash test.sh"
+    }
+
+}
